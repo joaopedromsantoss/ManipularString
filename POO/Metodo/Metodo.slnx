@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ArgumentosNomeados/ArgumentosNomeados.csproj" />
+  <Project Path="Metodo/Metodo.csproj" />
+  <Project Path="MetodosEstaticos/MetodosEstaticos.csproj" />
+  <Project Path="ParametrosOpcionais/ParametrosOpcionais.csproj" />
+</Solution>

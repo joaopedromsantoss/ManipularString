@@ -1,0 +1,7 @@
+C:\Curso C# Pessoal\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Curso C# Pessoal\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Curso C# Pessoal\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Curso C# Pessoal\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Curso C# Pessoal\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Curso C# Pessoal\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Curso C# Pessoal\Recursividade\Recursividade\obj\Debug\Recursividade.pdb

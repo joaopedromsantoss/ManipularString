@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\bin\Debug\ModeloDominio.exe.config
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\bin\Debug\ModeloDominio.exe
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\bin\Debug\ModeloDominio.pdb
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\obj\Debug\ModeloDominio.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\obj\Debug\ModeloDominio.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\obj\Debug\ModeloDominio.exe
+C:\Curso CSHARP Pessoal\POO\ModeloDominio\ModeloDominio\obj\Debug\ModeloDominio.pdb

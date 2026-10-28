@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Polimorfismo
 {
-    internal class CaixaEletronico : IConta
+     class CaixaEletronico : IConta
     {
         public string usuario { get; set; }
 

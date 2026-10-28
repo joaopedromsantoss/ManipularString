@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso C# Pessoal\\TesteWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|c:\\curso c# pessoal\\testewindowsforms\\testewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|solutionrelative:testewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|c:\\curso c# pessoal\\testewindowsforms\\testewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|solutionrelative:testewindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|c:\\curso c# pessoal\\testewindowsforms\\testewindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|solutionrelative:testewindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|c:\\curso c# pessoal\\testewindowsforms\\testewindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A80C58-CA41-4CFF-93EB-3F93A64E408B}|TesteWindowsForms\\TesteWindowsForms.csproj|solutionrelative:testewindowsforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.cs",
+              "RelativeToolTip": "TesteWindowsForms\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAzwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:07:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TesteWindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "TesteWindowsForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:00:54.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Program.cs",
+              "RelativeDocumentMoniker": "TesteWindowsForms\\Program.cs",
+              "ToolTip": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Program.cs",
+              "RelativeToolTip": "TesteWindowsForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T17:52:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Curso C# Pessoal\\TesteWindowsForms\\TesteWindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "TesteWindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T17:46:05.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

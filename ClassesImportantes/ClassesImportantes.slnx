@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassesImportantes/ClassesImportantes.csproj" Id="a9a223e6-457c-4bb0-8489-053d606d0514" />
+  <Project Path="TaskConsole/TaskConsole.csproj" Id="c9811462-c29b-447f-a40e-4fac5ac6d0a1" />
+  <Project Path="ThreadConsole/ThreadConsole.csproj" Id="c170b7e6-7eb5-43fd-a7c5-eb149529b754" />
+  <Project Path="ThreadForms/ThreadForms.csproj" Id="28a6f32d-1810-48ff-8386-390cfcdeb1e7" />
+</Solution>

@@ -1,0 +1,10 @@
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe.config
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.pdb
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Form1.resources
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Properties.Resources.resources
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.GenerateResource.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.exe
+C:\Curso CSHARP Pessoal\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.pdb

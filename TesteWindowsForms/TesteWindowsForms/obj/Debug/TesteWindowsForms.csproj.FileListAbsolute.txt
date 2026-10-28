@@ -1,0 +1,10 @@
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\bin\Debug\TesteWindowsForms.exe.config
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\bin\Debug\TesteWindowsForms.exe
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\bin\Debug\TesteWindowsForms.pdb
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.csproj.AssemblyReference.cache
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.Form1.resources
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.Properties.Resources.resources
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.csproj.GenerateResource.cache
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.csproj.CoreCompileInputs.cache
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.exe
+C:\Curso C# Pessoal\TesteWindowsForms\TesteWindowsForms\obj\Debug\TesteWindowsForms.pdb

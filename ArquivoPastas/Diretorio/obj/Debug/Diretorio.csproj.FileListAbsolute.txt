@@ -1,0 +1,10 @@
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe.config
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\bin\Debug\Diretorio.pdb
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Form1.resources
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.exe
+C:\Curso CSHARP Pessoal\ArquivoPastas\Diretorio\obj\Debug\Diretorio.pdb

@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\bin\Debug\ArgumentosNomeados.exe.config
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\bin\Debug\ArgumentosNomeados.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\bin\Debug\ArgumentosNomeados.pdb
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\obj\Debug\ArgumentosNomeados.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\obj\Debug\ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\obj\Debug\ArgumentosNomeados.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\ArgumentosNomeados\obj\Debug\ArgumentosNomeados.pdb

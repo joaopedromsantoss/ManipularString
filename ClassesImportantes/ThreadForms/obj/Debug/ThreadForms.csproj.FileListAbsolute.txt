@@ -1,0 +1,10 @@
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\bin\Debug\ThreadForms.exe.config
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\bin\Debug\ThreadForms.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\bin\Debug\ThreadForms.pdb
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.Form1.resources
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.Properties.Resources.resources
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.csproj.GenerateResource.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadForms\obj\Debug\ThreadForms.pdb

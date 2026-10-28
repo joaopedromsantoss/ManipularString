@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Arquivo/Arquivo.csproj" Id="3a036447-520b-4dc8-a72d-2276f7a5911b" />
+  <Project Path="ArquivoInfo/ArquivoInfo.csproj" Id="fcb8b2f7-ab70-44ce-a138-a65464c400e6" />
+  <Project Path="Diretorio/Diretorio.csproj" Id="ee21d982-f529-463a-8900-190ed7088a49" />
+</Solution>

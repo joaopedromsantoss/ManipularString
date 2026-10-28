@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC00FCD8-DBF4-4397-B9A1-5AD41442832D}|MetodosEstaticos\\MetodosEstaticos.csproj|C:\\Curso CSHARP Pessoal\\POO\\Metodo\\metodosestaticos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00FCD8-DBF4-4397-B9A1-5AD41442832D}|MetodosEstaticos\\MetodosEstaticos.csproj|solutionrelative:metodosestaticos\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC00FCD8-DBF4-4397-B9A1-5AD41442832D}|MetodosEstaticos\\MetodosEstaticos.csproj|c:\\curso csharp pessoal\\poo\\metodo\\metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC00FCD8-DBF4-4397-B9A1-5AD41442832D}|MetodosEstaticos\\MetodosEstaticos.csproj|solutionrelative:metodosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D68C8CF-EABD-470A-B50F-FFE8BBB5EA15}|ArgumentosNomeados\\ArgumentosNomeados.csproj|C:\\Curso CSHARP Pessoal\\POO\\Metodo\\argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D68C8CF-EABD-470A-B50F-FFE8BBB5EA15}|ArgumentosNomeados\\ArgumentosNomeados.csproj|solutionrelative:argumentosnomeados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497B5C5F-7FFA-4224-A549-B1C682AB39EE}|ParametrosOpcionais\\ParametrosOpcionais.csproj|C:\\Curso CSHARP Pessoal\\POO\\Metodo\\parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497B5C5F-7FFA-4224-A549-B1C682AB39EE}|ParametrosOpcionais\\ParametrosOpcionais.csproj|solutionrelative:parametrosopcionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF6C54-D804-40AA-B26A-E95BDDF36078}|Metodo\\Metodo.csproj|C:\\Curso CSHARP Pessoal\\POO\\Metodo\\metodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87FF6C54-D804-40AA-B26A-E95BDDF36078}|Metodo\\Metodo.csproj|solutionrelative:metodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\MetodosEstaticos\\Calculadora.cs",
+              "RelativeDocumentMoniker": "MetodosEstaticos\\Calculadora.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\MetodosEstaticos\\Calculadora.cs",
+              "RelativeToolTip": "MetodosEstaticos\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:35:41.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\MetodosEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "MetodosEstaticos\\Program.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\MetodosEstaticos\\Program.cs",
+              "RelativeToolTip": "MetodosEstaticos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:33:52.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\ArgumentosNomeados\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentosNomeados\\Program.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\ArgumentosNomeados\\Program.cs",
+              "RelativeToolTip": "ArgumentosNomeados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T20:04:58.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\ParametrosOpcionais\\Program.cs",
+              "RelativeDocumentMoniker": "ParametrosOpcionais\\Program.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\ParametrosOpcionais\\Program.cs",
+              "RelativeToolTip": "ParametrosOpcionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T19:54:17.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\Metodo\\Program.cs",
+              "RelativeDocumentMoniker": "Metodo\\Program.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\Metodo\\Metodo\\Program.cs",
+              "RelativeToolTip": "Metodo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T19:23:50.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

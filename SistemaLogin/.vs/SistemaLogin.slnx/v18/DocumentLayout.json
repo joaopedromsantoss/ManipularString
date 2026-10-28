@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\cadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\cadastrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|c:\\curso csharp pessoal\\sistemalogin\\sistemalogin\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A308A81-5F89-47E0-9F92-A1A9203BA16D}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\Usuario.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Usuario.cs",
+              "RelativeToolTip": "SistemaLogin\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:05:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroUsuarios.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\CadastroUsuarios.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\CadastroUsuarios.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\CadastroUsuarios.cs",
+              "RelativeToolTip": "SistemaLogin\\CadastroUsuarios.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:06:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormLogin.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeToolTip": "SistemaLogin\\FormLogin.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T14:00:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormLogin.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\FormLogin.cs [Design]",
+              "RelativeToolTip": "SistemaLogin\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:52:49.713Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\Form1.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Form1.cs",
+              "RelativeToolTip": "SistemaLogin\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:48:57.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\Form1.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\SistemaLogin\\SistemaLogin\\Form1.cs [Design]",
+              "RelativeToolTip": "SistemaLogin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T13:44:45.56Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

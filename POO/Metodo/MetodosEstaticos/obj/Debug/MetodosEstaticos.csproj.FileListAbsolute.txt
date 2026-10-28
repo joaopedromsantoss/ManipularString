@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\bin\Debug\MetodosEstaticos.exe.config
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\bin\Debug\MetodosEstaticos.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\bin\Debug\MetodosEstaticos.pdb
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\obj\Debug\MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\obj\Debug\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\obj\Debug\MetodosEstaticos.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\MetodosEstaticos\obj\Debug\MetodosEstaticos.pdb

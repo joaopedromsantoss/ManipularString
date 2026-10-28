@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\bin\Debug\ThreadConsole.pdb
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\ThreadConsole\obj\Debug\ThreadConsole.pdb

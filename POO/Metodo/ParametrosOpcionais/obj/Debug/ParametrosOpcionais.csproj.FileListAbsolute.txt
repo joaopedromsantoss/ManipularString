@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\bin\Debug\ParametrosOpcionais.exe.config
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\bin\Debug\ParametrosOpcionais.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\bin\Debug\ParametrosOpcionais.pdb
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\obj\Debug\ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\obj\Debug\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\obj\Debug\ParametrosOpcionais.exe
+C:\Curso CSHARP Pessoal\POO\Metodo\ParametrosOpcionais\obj\Debug\ParametrosOpcionais.pdb

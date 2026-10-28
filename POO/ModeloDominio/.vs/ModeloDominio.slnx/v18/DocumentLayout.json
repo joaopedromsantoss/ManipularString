@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\modelodominio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|solutionrelative:modelodominio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|c:\\curso csharp pessoal\\poo\\modelodominio\\modelodominio\\clienterico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|solutionrelative:modelodominio\\clienterico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\modelodominio\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|solutionrelative:modelodominio\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\modelodominio\\clienteanemico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7147D6D-9036-4750-A7B2-CF9278D4F970}|ModeloDominio\\ModeloDominio.csproj|solutionrelative:modelodominio\\clienteanemico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "ModeloDominio\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "ModeloDominio\\DomainExceptionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:14:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRico.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\ClienteRico.cs",
+              "RelativeDocumentMoniker": "ModeloDominio\\ClienteRico.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\ClienteRico.cs",
+              "RelativeToolTip": "ModeloDominio\\ClienteRico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T20:03:49.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteAnemico.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\ClienteAnemico.cs",
+              "RelativeDocumentMoniker": "ModeloDominio\\ClienteAnemico.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\ClienteAnemico.cs",
+              "RelativeToolTip": "ModeloDominio\\ClienteAnemico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:59:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\Program.cs",
+              "RelativeDocumentMoniker": "ModeloDominio\\Program.cs",
+              "ToolTip": "C:\\Curso CSHARP Pessoal\\POO\\ModeloDominio\\ModeloDominio\\Program.cs",
+              "RelativeToolTip": "ModeloDominio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T19:58:40.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

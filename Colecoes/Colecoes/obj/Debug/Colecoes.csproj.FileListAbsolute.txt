@@ -1,0 +1,10 @@
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\Curso CSHARP Pessoal\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

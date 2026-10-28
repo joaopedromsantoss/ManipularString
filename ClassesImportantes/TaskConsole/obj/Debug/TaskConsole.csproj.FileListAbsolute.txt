@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe.config
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.pdb
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.exe
+C:\Curso CSHARP Pessoal\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.pdb

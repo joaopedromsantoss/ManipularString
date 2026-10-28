@@ -1,0 +1,10 @@
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.Form1.resources
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\Curso CSHARP Pessoal\JokenPo\JokenPo\obj\Debug\JokenPo.pdb

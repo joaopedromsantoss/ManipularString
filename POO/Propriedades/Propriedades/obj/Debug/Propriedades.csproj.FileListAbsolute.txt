@@ -1,0 +1,7 @@
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\bin\Debug\Propriedades.exe
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\bin\Debug\Propriedades.pdb
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\obj\Debug\Propriedades.exe
+C:\Curso CSHARP Pessoal\POO\Propriedades\Propriedades\obj\Debug\Propriedades.pdb
